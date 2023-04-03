@@ -1,0 +1,20 @@
+﻿  bicubic_origin.cpp
+D:\연구실\SR(202109-202212)\code\Bicubic\Bicubic\bicubic_origin.cpp(96,82): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\연구실\SR(202109-202212)\code\Bicubic\Bicubic\bicubic_origin.cpp(99,100): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\연구실\SR(202109-202212)\code\Bicubic\Bicubic\bicubic_origin.cpp(129,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\연구실\SR(202109-202212)\code\Bicubic\Bicubic\bicubic_origin.cpp(130,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\연구실\SR(202109-202212)\code\Bicubic\Bicubic\bicubic_origin.cpp(134,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\연구실\SR(202109-202212)\code\Bicubic\Bicubic\bicubic_origin.cpp(135,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\연구실\SR(202109-202212)\code\Bicubic\Bicubic\bicubic_origin.cpp(136,26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\연구실\SR(202109-202212)\code\Bicubic\Bicubic\bicubic_origin.cpp(137,26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\연구실\SR(202109-202212)\code\Bicubic\Bicubic\bicubic_origin.cpp(141,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\연구실\SR(202109-202212)\code\Bicubic\Bicubic\bicubic_origin.cpp(142,15): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\연구실\SR(202109-202212)\code\Bicubic\Bicubic\bicubic_origin.cpp(143,26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\연구실\SR(202109-202212)\code\Bicubic\Bicubic\bicubic_origin.cpp(144,26): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\연구실\SR(202109-202212)\code\Bicubic\Bicubic\bicubic_origin.cpp(194,38): warning C4244: '=': 'float'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\연구실\SR(202109-202212)\code\Bicubic\Bicubic\bicubic_origin.cpp(117,8): warning C4101: 'mat_temp' :참조되지 않은 지역 변수입니다.
+D:\연구실\SR(202109-202212)\code\Bicubic\Bicubic\bicubic_origin.cpp(298,63): warning C4244: '인수': 'float'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\연구실\SR(202109-202212)\code\Bicubic\Bicubic\bicubic_origin.cpp(313,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\연구실\SR(202109-202212)\code\Bicubic\Bicubic\bicubic_origin.cpp(320,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\연구실\SR(202109-202212)\code\Bicubic\Bicubic\bicubic_origin.cpp(320,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Bicubic.vcxproj -> D:\연구실\SR(202109-202212)\code\Bicubic\x64\Debug\Bicubic.exe
