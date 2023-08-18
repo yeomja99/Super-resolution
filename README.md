@@ -1,8 +1,6 @@
-# Super-resolution
+# 심층학습 기반의 영상 개선 기술을 연동한 저전력 Mobile GPU platform 개발 연구 과제
 
 ## 📖상세 설명
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/640ce31f-aaf3-4716-afba-bc0804114b2a/Untitled.png)
 
 <aside>
 💡 “심층학습 기반의 영상 개선 기술을 연동한 저전력 Mobile GPU platform 개발” 연구 과제에 참여하여 진행한 프로젝트입니다.  
